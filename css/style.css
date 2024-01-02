@@ -259,7 +259,7 @@ h1 {
 }
 
 .presentazione {
-    padding: 2em 23em 2em 23em;
+    padding: 2em 23em 2em 25em;
 }
 
 .ciao {
@@ -330,9 +330,9 @@ h1 {
 
 .qrcode {
     float: right;
-    margin: 10px 70px 10px 70px;
-    max-width: 25%;
-    max-height: 400px;
+    margin: 0px 30px 10px 70px;
+    max-width: 45%;
+    max-height: 450px;
     z-index: 1;
 }
 

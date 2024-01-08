@@ -77,6 +77,20 @@ h1 {
     padding-bottom: 50px;
 }
 
+/*VISUALIZZAZIONE PAGINE PICCOLE*/
+@media (max-width: 960px) {
+    #imglogo {
+        max-width: 150px;
+    }
+    
+    #description{
+        padding: 30px 30px 30px 30px;
+    }
+    #search{
+        padding: 30px 30px 30px 30px;
+    }
+}
+
 /* SECTION FOOTER START */
 
 #footer {

@@ -86,10 +86,16 @@ h5{
 }
 
 /*STRUTTURA E LAYOUT*/
- .img{
+ .img {
     width: 70%;
     height: auto;
     text-align: center;
  }
+
+#obiettivi{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
 
 
